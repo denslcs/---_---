@@ -136,14 +136,5 @@ mv copy_example.txt renamed_example.txt
 Удалите файл renamed_example.txt. 
 
 rm renamed_example.txt
-
-![image](/image/screenshotTerminal.PNG)
-
-![imageNano1](/image/nano1.PNG)
-
-![imageNano2](/image/nano2.PNG)
 ____
 
- 
- 
-‣ⴭ弭ⴭਭ
